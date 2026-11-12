@@ -33,6 +33,7 @@ Kho bài tập SQL Server bằng tiếng Việt. Mỗi tệp `.sql` gồm dữ l
 | [Bai11](Bai11.sql) | Phát hiện email trùng | `GROUP BY`, `HAVING` |
 | [Bai12](Bai12.sql) | Lượt đặt phòng chồng chéo | Self join |
 | [Bai13](Bai13.sql) | So sánh giá với lần điều chỉnh trước | `LAG` |
+| [Bai14](Bai14.sql) | Chuỗi ngày đăng nhập liên tiếp | `LAG`, `SUM OVER`, gaps and islands |
 
 ## Cách chạy
 
